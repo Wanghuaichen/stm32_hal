@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="Config\LCDConf.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1622" topLine="49" />
+		</Cursor>
+	</File>
+	<File name="..\emwin\baojing1.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4531" topLine="135" />
+		</Cursor>
+	</File>
+	<File name="GUI\Include\BUTTON.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8770" topLine="167" />
+		</Cursor>
+	</File>
+	<File name="..\emwin\baojing2.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4857" topLine="126" />
+		</Cursor>
+	</File>
+	<File name="GUI\Include\WM.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3843" topLine="110" />
+		</Cursor>
+	</File>
+	<File name="..\emwin\baojing3.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4857" topLine="121" />
+		</Cursor>
+	</File>
+	<File name="..\emwin\jiaodui4.c" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4845" topLine="121" />
+		</Cursor>
+	</File>
+	<File name="..\emwin\buchang.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2402" topLine="162" />
+		</Cursor>
+	</File>
+	<File name="Simulation\WinMain.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="27" />
+		</Cursor>
+	</File>
+	<File name="..\emwin\jiaodui1.c" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4970" topLine="194" />
+		</Cursor>
+	</File>
+	<File name="..\emwin\buchang1.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3847" topLine="82" />
+		</Cursor>
+	</File>
+	<File name="..\emwin\xitong.c" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6652" topLine="82" />
+		</Cursor>
+	</File>
+	<File name="..\emwin\Menu_lock.c" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7870" topLine="193" />
+		</Cursor>
+	</File>
+	<File name="..\emwin\buchang2.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4677" topLine="105" />
+		</Cursor>
+	</File>
+	<File name="GUI\Include\BUTTON_Private.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="50" />
+		</Cursor>
+	</File>
+	<File name="..\emwin\buchang3.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4510" topLine="118" />
+		</Cursor>
+	</File>
+	<File name="..\emwin\tongdao.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7092" topLine="190" />
+		</Cursor>
+	</File>
+	<File name="..\emwin\jiaodui.c" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3650" topLine="84" />
+		</Cursor>
+	</File>
+	<File name="GUI\Include\GUI.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="75402" topLine="1706" />
+		</Cursor>
+	</File>
+	<File name="..\emwin\xitong5.c" open="1" top="1" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3901" topLine="130" />
+		</Cursor>
+	</File>
+	<File name="..\emwin\Main_status.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6256" topLine="151" />
+		</Cursor>
+	</File>
+	<File name="..\emwin\tongdao1.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="72" />
+		</Cursor>
+	</File>
+	<File name="..\emwin\Date.c" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4768" topLine="146" />
+		</Cursor>
+	</File>
+	<File name="..\emwin\Menu_list.c" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3064" topLine="54" />
+		</Cursor>
+	</File>
+	<File name="..\emwin\xitong2.c" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12748" topLine="416" />
+		</Cursor>
+	</File>
+	<File name="..\emwin\Date.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1477" topLine="12" />
+		</Cursor>
+	</File>
+	<File name="..\emwin\xitong3.c" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5904" topLine="149" />
+		</Cursor>
+	</File>
+	<File name="..\emwin\baojing.c" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3342" topLine="82" />
+		</Cursor>
+	</File>
+	<File name="Config\GUIConf.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1318" topLine="43" />
+		</Cursor>
+	</File>
+	<File name="..\emwin\GUIDEMO_Start.c" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="570" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GUI\Include\GUI_ConfDefaults.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1512" topLine="21" />
+		</Cursor>
+	</File>
+	<File name="..\emwin\tongdao2.c" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3805" topLine="116" />
+		</Cursor>
+	</File>
+	<File name="..\emwin\tongdao6.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4238" topLine="102" />
+		</Cursor>
+	</File>
+	<File name="..\emwin\shuchu1.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4888" topLine="138" />
+		</Cursor>
+	</File>
+	<File name="..\emwin\tongdao3.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4188" topLine="108" />
+		</Cursor>
+	</File>
+	<File name="..\emwin\jiaodui2.c" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7367" topLine="190" />
+		</Cursor>
+	</File>
+	<File name="..\emwin\tongdao4.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4910" topLine="114" />
+		</Cursor>
+	</File>
+	<File name="..\emwin\tongdao5.c" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4227" topLine="110" />
+		</Cursor>
+	</File>
+	<File name="GUI\Include\DIALOG_Intern.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3252" topLine="33" />
+		</Cursor>
+	</File>
+	<File name="..\emwin\xitong1.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4856" topLine="120" />
+		</Cursor>
+	</File>
+	<File name="..\emwin\xitong4.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3562" topLine="82" />
+		</Cursor>
+	</File>
+	<File name="GUI\Include\TEXT.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4279" topLine="95" />
+		</Cursor>
+	</File>
+	<File name="..\emwin\jiaodui3.c" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7361" topLine="185" />
+		</Cursor>
+	</File>
+	<File name="..\emwin\xitong7.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6454" topLine="164" />
+		</Cursor>
+	</File>
+	<File name="GUI\Include\WIDGET.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="13784" topLine="81" />
+		</Cursor>
+	</File>
+	<File name="..\emwin\xitong6.c" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5376" topLine="129" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
